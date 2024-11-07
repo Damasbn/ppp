@@ -1,0 +1,1 @@
+var json_Wisata_13 = {"type":"FeatureCollection","name":"Wisata_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Wisata Edukasi Lembah Wuni"},"geometry":{"type":"Point","coordinates":[109.372304430197119,-7.302944568455498]}}]}

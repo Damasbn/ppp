@@ -1,0 +1,1 @@
+var json_Jembatan_14 = {"type":"FeatureCollection","name":"Jembatan_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Jembatan Kaliputih"},"geometry":{"type":"Point","coordinates":[109.382853330482789,-7.304307454033577]}}]}
